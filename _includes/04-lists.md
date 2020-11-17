@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+- Rice
+  - Curry
+  - Risoto
+  - Paella
+- Pasta
+  - Carbenara
+  - macarroni
+  - Lasanga
+- Pizza
+  - Ham & Mushroom
+  
